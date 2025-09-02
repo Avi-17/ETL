@@ -9,7 +9,7 @@ A simple ETL (Extract, Transform, Load) pipeline built in Python to fetch, clean
 
 ## Tech Stack
 - Python (pandas, requests, SQLAlchemy)
-- PostgreSQL (hosted on Aiven)
+- PostgreSQL (hosted on neonDB)
 - dotenv for configuration management
 
 ## Project Structure
