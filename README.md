@@ -12,17 +12,6 @@ A simple ETL (Extract, Transform, Load) pipeline built in Python to fetch, clean
 - PostgreSQL (hosted on neonDB)
 - dotenv for configuration management
 
-## Project Structure
-etl_pipeline/
-├── extract.py
-├── transform.py
-├── load.py
-├── config.py
-└── init.py
-main.py
-.env.example
-requirements.txt
-
 
 ## How to Run
 1. Clone the repo  
